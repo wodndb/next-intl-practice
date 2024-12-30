@@ -1,0 +1,20 @@
+{
+  "MainPage": {
+    "pageTitle": "Meet Our Lovely Pets",
+    "description": "Here are some of our wonderful pets.",
+    "pets": {
+      "dog": {
+        "name": "Buddy",
+        "description": "Buddy is an energetic dog."
+      },
+      "cat": {
+        "name": "Luna",
+        "description": "Luna is a gentle and calm cat."
+      },
+      "parrot": {
+        "name": "Sunny",
+        "description": "Sunny is a parrot that mimics speech."
+      }
+    }
+  }
+}

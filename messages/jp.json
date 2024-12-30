@@ -1,0 +1,20 @@
+{
+  "MainPage": {
+    "pageTitle": "私たちの愛しいペットたち",
+    "description": "こちらは私たちのペットたちの紹介です。",
+    "pets": {
+      "dog": {
+        "name": "バディ",
+        "description": "バディはエネルギッシュな犬です。"
+      },
+      "cat": {
+        "name": "ルナ",
+        "description": "ルナは穏やかな性格の猫です。"
+      },
+      "parrot": {
+        "name": "サニー",
+        "description": "サニーは言葉を真似するオウムです。"
+      }
+    }
+  }
+}
