@@ -1,7 +1,7 @@
 {
   "MainPage": {
     "pageTitle": "우리의 사랑스러운 반려 동물들",
-    "description": "아래는 우리의 반려 동물들을 소개합니다.",
+    "description": "우리의 반려 동물들을 소개합니다.",
     "pets": {
       "dog": {
         "name": "바둑이",

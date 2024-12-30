@@ -1,7 +1,7 @@
 {
   "MainPage": {
     "pageTitle": "私たちの愛しいペットたち",
-    "description": "こちらは私たちのペットたちの紹介です。",
+    "description": "私たちのペットたちの紹介です。",
     "pets": {
       "dog": {
         "name": "バディ",
